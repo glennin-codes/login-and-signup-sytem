@@ -1,0 +1,54 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+  #head h2{
+      text-align: center;
+      margin-left: 98%;
+  }
+form{
+    margin: 10px auto;
+        width: 300px;
+        background-size: 50%;
+        font-size: 14px;
+        
+        
+
+}
+body{
+    background-color:lightgrey;
+}
+form input{
+ margin-bottom: 10px;
+ padding: 0 3%;
+ width: 94%;
+ height: 30px;
+ 
+
+}
+form button{
+ width: 100%;
+ height: 30px;
+}
+#signup{
+     margin-left: 500px;
+     font: 100;
+     
+     
+}
+#signup a{
+      text-decoration: none;
+      color:blue;
+      font-size: 14px;
+}
+#signup a:hover{
+    color:crimson;
+}
+a:visited{
+    color: chartreuse;
+}
+a:active{
+    color: cyan;
+}
